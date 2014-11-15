@@ -1,6 +1,7 @@
 #Questions in a Hat
 
-* Have students write down the topics they want to discuss further, so that we may break into topical squads
+* If you don't know, you can call on a peer who raises their hand
+* Write down the topics you want to discuss further, so that we may break into topical squads
 
 1) Explain the difference between form_tag and form_for and provide an example of when you would use each.
 
@@ -50,6 +51,3 @@
 
 24) In javascript what is the difference between `==` & `===`? In Ruby what is the equivalent of `===`?
 
-
-##Next Steps
-* Break into topical squads
